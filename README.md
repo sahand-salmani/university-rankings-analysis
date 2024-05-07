@@ -4,6 +4,10 @@
 
 This project aims to analyze university rankings data to gain insights into the performance of universities globally. By examining various geographical, rankings, correlation, and influence aspects, we seek to understand the factors influencing university performance and identify patterns and trends in the data.
 
+## Project Link
+
+The project can be found on [GitHub](https://github.com/sahand-salmani/university-rankings-analysis).
+
 ## Objectives
 
 ### Geographical Analysis
@@ -39,12 +43,6 @@ This project aims to analyze university rankings data to gain insights into the 
 ### Influence Analysis
 1. **Influence vs. Ranking Scatter Plot**:
    - Create a scatter plot comparing university influence (measured by citations or other metrics) with their rankings. Identify outliers or universities with disproportionately high influence relative to their rankings, and investigate potential factors driving their influence within the academic community.
-
-## Project Structure
-
-- **/**: Directory containing the datasets used in the analysis.
-- **/sahand-salmani/university-rankings-analysis/master/university_ranking.ipynb**: Jupyter notebooks containing the analysis code.
-- **README.md**: Overview of the project and objectives.
 
 ## Usage
 
